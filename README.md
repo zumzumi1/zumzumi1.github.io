@@ -1,1 +1,1 @@
-# zumzumi1.github.io
+# 끄투코리아 단어 사전 사이트
